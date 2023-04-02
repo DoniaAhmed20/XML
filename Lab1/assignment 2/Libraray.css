@@ -1,0 +1,15 @@
+library{
+    margin-top: 50px;
+}
+location,description,librarian,title,isbn,author,preface{
+    display: block;
+    font-size: 20px;
+    margin-left: 100px;
+    line-height: 50px;
+}
+chapter,summary,content{
+    display: block;
+    margin-left: 110px;
+    line-height: 20px;
+    font-size: 20px;
+}

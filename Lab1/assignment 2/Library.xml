@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="Libraray.css"?>
+
+<library>
+  <location>Location: Aleaxandria</location>
+  <description>Description: The Great Library of Alexandria in Alexandria, Egypt, was one of the largest and most significant libraries of the ancient world</description>
+  <librarian>Librarian: Julius Caesar</librarian>
+  <ourbooks>
+    <book>
+       <title>Book Name:  In Search of Lost Time </title>
+       <isbn>Isbn: 5246362</isbn>
+       <author>Author: Marcel Proust</author>
+       <preface>Preface: this book is prefaced by a quotation from william faulkner</preface>
+       <part>
+         <title>part 1</title>
+         <chapter>
+           <title>Chapter 1</title>
+           <summary>Summary:the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle</summary>
+           <section>
+              <content> Content:Proust introduces the themes that run through the entire work. The narr...</content>
+           </section>
+           <section>
+              <content>The novel deals with the subjective nature of experiencing reality</content>
+           </section>
+         </chapter>
+         <chapter>
+           <title>Chapter2</title>
+           <summary>The Guermantes Way</summary>
+           <section>
+              <content>Proust remains unmatched in the obsession and attention to detail with which he illuminated every single aspect of human existence.</content>
+           </section>
+           <section>
+              <content>This makes for a lengthy voyage, and you are likely to run out of steam at times. </content>
+           </section>
+         </chapter>
+       </part>
+       <part>
+       <title>Part 2</title>
+         <chapter>
+           <title>Chapter 3</title>
+           <summary>He frets about the reasons for Albertine’s flight and tries to get her back with the help of crafty stratagems</summary>
+           <section>
+              <content>Just as Marcel starts to forget Albertine, Andrée confides more secrets to him</content>
+           </section>
+           <section>
+              <content>The once romantic Saint-Loup marries the wealthy Gilberte for want of money and turns out to be a closet homosexual.</content>
+           </section>
+         </chapter>
+         <chapter>
+           <title>Chapter 4</title>
+           <summary>Marcel spends several years in a sanatorium before returning to Paris at the beginning of 1916.</summary>
+           <section>
+              <content>The war has altered the city and its inhabitants beyond recognition.</content>
+           </section>
+           <section>
+              <content>That same night Marcel survives a terrible air raid, and a few days later he learns that Saint-Loup has died in combat.</content>
+           </section>
+         </chapter>
+       </part>
+    </book>
+<book>
+       <title>Book Name:  In Search of Lost Time </title>
+       <isbn>Isbn: 5246362</isbn>
+       <author>Author: Marcel Proust</author>
+       <preface>Preface: this book is prefaced by a quotation from william faulkner</preface>
+       <part>
+         <title>part 1</title>
+         <chapter>
+           <title>Chapter 1</title>
+           <summary>Summary:the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle</summary>
+           <section>
+              <content> Content:Proust introduces the themes that run through the entire work. The narr...</content>
+           </section>
+           <section>
+              <content>The novel deals with the subjective nature of experiencing reality</content>
+           </section>
+         </chapter>
+         <chapter>
+           <title>Chapter2</title>
+           <summary>The Guermantes Way</summary>
+           <section>
+              <content>Proust remains unmatched in the obsession and attention to detail with which he illuminated every single aspect of human existence.</content>
+           </section>
+           <section>
+              <content>This makes for a lengthy voyage, and you are likely to run out of steam at times. </content>
+           </section>
+         </chapter>
+       </part>
+       <part>
+       <title>Part 2</title>
+         <chapter>
+           <title>Chapter 3</title>
+           <summary>He frets about the reasons for Albertine’s flight and tries to get her back with the help of crafty stratagems</summary>
+           <section>
+              <content>Just as Marcel starts to forget Albertine, Andrée confides more secrets to him</content>
+           </section>
+           <section>
+              <content>The once romantic Saint-Loup marries the wealthy Gilberte for want of money and turns out to be a closet homosexual.</content>
+           </section>
+         </chapter>
+         <chapter>
+           <title>Chapter 4</title>
+           <summary>Marcel spends several years in a sanatorium before returning to Paris at the beginning of 1916.</summary>
+           <section>
+              <content>The war has altered the city and its inhabitants beyond recognition.</content>
+           </section>
+           <section>
+              <content>That same night Marcel survives a terrible air raid, and a few days later he learns that Saint-Loup has died in combat.</content>
+           </section>
+         </chapter>
+       </part>
+    </book>
+  </ourbooks>
+</library>
