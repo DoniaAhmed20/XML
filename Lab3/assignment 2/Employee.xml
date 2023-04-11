@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Employee.xsl"?>
+<EmployeeList>
+  <employee isbn="1">
+    <name>Donia Ahmed</name>
+    <phones>
+        <phone type="home">01286763</phone>
+        <phone type="work">01101676</phone>
+        <phone type="mobile">0120654</phone>  
+    </phones>
+    <address>
+       <street>Montaza</street>
+       <building>2</building>
+       <region>Alex</region>
+       <city>Alex</city>
+       <country>egypt</country>
+    </address>
+    <email>donia@gmail.com</email>
+  </employee>
+
+  <employee isbn="2">
+    <name>Rewan Mohamed</name>
+    <phones>
+        <phone type="home">01686335</phone>
+        <phone type="work">01246546</phone>
+        <phone type="mobile">01065445</phone>  
+    </phones>
+    <address>
+       <street>el raml</street>
+       <building>4</building>
+       <region>Alex</region>
+       <city>Alex</city>
+       <country>egypt</country>
+    </address>
+    <email>rewan@gmail.com</email>
+  </employee>
+</EmployeeList>
