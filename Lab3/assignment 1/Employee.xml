@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "employess.dtd">
+<EmployeeList>
+  <employee isbn="1">
+    <name>Name: Donia Ahmed</name>
+    <phones>
+        <phone type="home">Home: 01286763</phone>
+        <phone type="work">Work: 01101676</phone>
+        <phone type="mobile">Mobile: 0120654</phone>  
+    </phones>
+    <address>
+       <street>Street: Montaza, </street>
+       <building>Building: 2, </building>
+       <region>Region: Alex, </region>
+       <city>City: Alex, </city>
+       <country>egypt</country>
+    </address>
+    <e-mail>Email: donia@gmail.com</e-mail>
+  </employee>
+
+  <employee isbn="2">
+    <name>Name: Rewan Mohamed</name>
+    <phones>
+        <phone type="home">Home: 01686335</phone>
+        <phone type="work">Work: 01246546</phone>
+        <phone type="mobile">Mobile: 01065445</phone>  
+    </phones>
+    <address>
+       <street>Street: el raml</street>
+       <building>Building: 4</building>
+       <region>Region: Alex</region>
+       <city>City: Alex</city>
+       <country>egypt</country>
+    </address>
+    <e-mail>Email: rewan@gmail.com</e-mail>
+  </employee>
+</EmployeeList>

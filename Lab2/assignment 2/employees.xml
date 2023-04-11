@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Employee.css"?>
+<company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/Kimo%20Store/Desktop/XML/XML_Labs/Lab2/assignment%202/Employee.xsd">
+		<employees>
+  <employee >
+    <name>sara hossam</name>
+    <phones>
+      <phone type="home">012844511</phone>
+      <phone type="work">010626649</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>Main Street</street>
+        <building_number>1</building_number>
+        <region>Bitash</region>
+        <city>Alexandria</city>
+        <country>Egypt</country>
+      </address>
+    </addresses>
+    <email>Sarahussam203@gmail.com</email>
+  </employee>
+  <employee >
+    <name>Donia Ahmed</name>
+    <phones>
+      <phone type="home">0125656332</phone>
+	  <phone type="work">0105483256</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>Montaza</street>
+        <building_number>5</building_number>
+        <region>2</region>
+        <city>Alex</city>
+        <country>Egypt</country>
+      </address>
+    </addresses>
+    <email>donia@gmail.com</email>
+  </employee>
+
+  <employee >
+    <name>Rewan Mohamed</name>
+    <phones>
+      <phone type="home">0115687213</phone>
+	  <phone type="work">0120548561</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>El-Ramal</street>
+        <building_number>3</building_number>
+        <region>5</region>
+        <city>Cario</city>
+        <country>Egypt</country>
+      </address>
+    </addresses>
+    <email>roro@gmail.com</email>
+  </employee>
+</employees>
+</company>
